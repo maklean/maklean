@@ -1,4 +1,6 @@
+Hey, I'm Yoël 👋
+
 #### <ins>about me:</ins>
-  - i'm a computer science student @ carleton university
-  - i'm interested in backend development & systems programming<br>
-  - currently learning c/c++ & compilers<br>
+  - cs student @ carleton university
+  - interested in compilers, networking (_and some graphics programming_)<br>
+  - mostly writing C, and C++<br>
